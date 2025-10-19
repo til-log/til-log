@@ -1,7 +1,7 @@
 # Hello!🤗 I'm DaonKang!
 ------
 
-🌱 I’m currently learning Python, SQL, and Data Science.
+🌱 I’m currently learning **Python, SQL, and Data Science.**
 
 🔬 I’m also exploring **AI-paper research** and building a foundation in **mathematics for AI**.
 
